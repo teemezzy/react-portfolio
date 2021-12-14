@@ -295,7 +295,12 @@ const Main = () => {
                   name='email'
                   id='email'
                 />
+
+                
               </div>
+
+
+              
               <div className='contact__form-field'>
                 <label className='contact__form-label' for='message'>
                   Message
